@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ViralReelsApp/static/css/main.d334808b.css",
-    "main.js": "/ViralReelsApp/static/js/main.3b40b91c.js",
+    "main.js": "/ViralReelsApp/static/js/main.9d9e8a4f.js",
     "static/js/453.4683662d.chunk.js": "/ViralReelsApp/static/js/453.4683662d.chunk.js",
     "index.html": "/ViralReelsApp/index.html",
     "main.d334808b.css.map": "/ViralReelsApp/static/css/main.d334808b.css.map",
-    "main.3b40b91c.js.map": "/ViralReelsApp/static/js/main.3b40b91c.js.map",
+    "main.9d9e8a4f.js.map": "/ViralReelsApp/static/js/main.9d9e8a4f.js.map",
     "453.4683662d.chunk.js.map": "/ViralReelsApp/static/js/453.4683662d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d334808b.css",
-    "static/js/main.3b40b91c.js"
+    "static/js/main.9d9e8a4f.js"
   ]
 }
